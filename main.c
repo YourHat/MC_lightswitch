@@ -13,7 +13,7 @@
 #define DF_MOT_DUTY_N70_DEG     0.71F   //-70deg time of high level[ms]
 #define DF_MOT_DUTY_N65_DEG     0.76F   //-65deg time of high level[ms]
 #define DF_MOT_DUTY_N60_DEG     0.82F   //-60deg time of high level[ms]
-#define DF_MOT_DUTY_N30_DEG     0.9F   //-30deg time of high level[ms]
+#define DF_MOT_DUTY_N30_DEG     0.8F   //-30deg time of high level[ms]
 #define DF_MOT_DUTY_0_DEG       1.45F   //  0deg time of high level[ms]
 #define DF_MOT_DUTY_P30_DEG     1.80F   //+30deg time of high level[ms]
 #define DF_MOT_DUTY_P60_DEG     2.10F   //+60deg time of high level[ms]
