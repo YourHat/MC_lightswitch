@@ -1,0 +1,3 @@
+/home/yourhat/projects/servolightswitch/build/pioasm/CMakeFiles/pioasm.dir
+/home/yourhat/projects/servolightswitch/build/pioasm/CMakeFiles/edit_cache.dir
+/home/yourhat/projects/servolightswitch/build/pioasm/CMakeFiles/rebuild_cache.dir
